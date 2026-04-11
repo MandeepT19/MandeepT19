@@ -24,14 +24,14 @@
 ```yaml
 name      : Mandeep Thakkar
 role      : App Developer · AI/ML Builder · Open Source Contributor
-university: Marwadi University, Bhavnagar 🇮🇳
+university: Marwadi University
 focus:
   - Mobile App Development     # Flutter · Kotlin · Android
   - Artificial Intelligence    # Python · ML · Automation
   - Open Source                # Contributor · Builder
   - UI/UX Design               # Figma · Canva
 certifications: [ in progress 🔥 ]
-currently_building: "Something cool — stay tuned 👀"
+currently_building: "Something cool stay tuned 👀"
 fun_fact  : "Night coder ☕ | Dark mode or no mode 🖤"
 ```
 
