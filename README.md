@@ -168,6 +168,6 @@ fun_fact  : "Night coder ☕ | Dark mode or no mode 🖤"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:0d0015&height=100&section=footer&text=Let%27s+build+something+remarkable&fontSize=14&fontColor=a855f7&fontAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:0d0015&height=100&section=footer&text=Let%27s+build+something+together&fontSize=14&fontColor=a855f7&fontAlignY=68&animation=fadeIn" width="100%"/>
 
 </div>
