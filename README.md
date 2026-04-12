@@ -31,7 +31,7 @@ focus:
   - Open Source                # Contributor · Builder
   - UI/UX Design               # Figma · Canva
 certifications: [ in progress 🔥 ]
-currently_building: "Something cool stay tuned 👀"
+currently_building: "Contributing to AnkiDroid | Android · Kotlin"
 fun_fact  : "Night coder ☕ | Dark mode or no mode 🖤"
 ```
 
