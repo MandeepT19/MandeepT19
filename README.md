@@ -166,8 +166,14 @@ fun_fact  : "Night coder ☕ | Dark mode or no mode 🖤"
 
 ---
 
+<!-- CONNECT SECTION -->
+## `$` Connect
+ 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0033,100:0d0015&height=100&section=footer&text=Let%27s+build+something+together&fontSize=14&fontColor=a855f7&fontAlignY=68&animation=fadeIn" width="100%"/>
-
+<a href="mailto:mandeepthakkar19@gmail.com">
+<img src="https://img.shields.io/badge/Say%20Hello!-mandeepthakkar19%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0015"/>
+</a>
 </div>
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0015,70:1a0033,100:4c1d95&height=130&section=footer&text=Let%27s+build+something+remarkable&fontSize=17&fontColor=d8b4fe&fontAlignY=72&animation=twinkling" width="100%"/>
+ 
