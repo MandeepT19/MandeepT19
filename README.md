@@ -4,9 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,30:1a0033,60:0d0026,100:000000&height=200&section=header&text=Mandeep%20Thakkar&fontSize=58&fontColor=d8b4fe&fontAlignY=42&desc=App%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Open%20Source%20Contributor&descAlignY=65&descSize=15&fontFamily=Raleway&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0015,60:1a0033,100:000000&height=230&section=header&text=Mandeep%20Thakkar&fontSize=68&fontColor=d8b4fe&fontAlignY=42&stroke=a855f7&strokeWidth=3&desc=App%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20Open%20Source%20Contributor&descAlignY=65&descSize=16&fontFamily=Courier+New&animation=twinkling&fontAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=1000&color=a855f7&center=true&vCenter=true&width=700&lines=Flutter+%26+Android+Dev+%40+Marwadi+University+%F0%9F%8E%93;AI+%2F+ML+Builder+%7C+Python+%7C+Kotlin+%7C+Dart;Open+Source+Contributor+%7C+Figma+%7C+App+Developer;Building+from+Rajkot+%F0%9F%87%AE%F0%9F%87%B3+%7C+Dark+mode+always+on+%F0%9F%96%A4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=1000&color=a855f7&center=true&vCenter=true&width=700&lines=Flutter+%26+Android+Dev+%40+Marwadi+University+%F0%9F%8E%93;AI+%2F+ML+Builder+%7C+Python+%7C+Kotlin+%7C+Dart;Open+Source+Contributor+%7C+Figma+%7C+App+Developer;Building+from+Rajkot+%F0%9F%87%AE%F0%9F%87%B3+%7C+Dark+mode+always+on+%F0%9F%96%A4;%24+whoami+--+hacker+%7C+builder+%7C+learner)](https://git.io/typing-svg)
+
+</div>
 
 <br/>
 
