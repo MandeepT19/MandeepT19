@@ -12,6 +12,8 @@
 
 <br/>
 
+<div align='center'>
+
 [![GitHub](https://img.shields.io/badge/GitHub-0d0015?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/MandeepT19)
 [![Gmail](https://img.shields.io/badge/Gmail-1a0033?style=for-the-badge&logo=gmail&logoColor=d8b4fe)](mailto:mandeepthakkar19@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0d0026?style=for-the-badge&logo=instagram&logoColor=a855f7)](https://instagram.com/mandeep_raghuvanshi19)
