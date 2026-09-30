@@ -9,7 +9,7 @@
 <a href="mailto:mandeepthakkar19@gmail.com"><img src="https://img.shields.io/badge/email-150D24?style=for-the-badge&logo=gmail&logoColor=F2B38F" alt="Email"></a>
 <a href="https://instagram.com/mandeep_raghuvanshi19"><img src="https://img.shields.io/badge/instagram-150D24?style=for-the-badge&logo=instagram&logoColor=D8B4FE" alt="Instagram"></a>
 <a href="https://discord.com/users/mandeept_19"><img src="https://img.shields.io/badge/discord-150D24?style=for-the-badge&logo=discord&logoColor=D8B4FE" alt="Discord"></a>
-<img src="https://komarev.com/ghpvc/?username=MandeepT19&style=for-the-badge&color=A855F7&label=profile+views" alt="Profile views">
+<img src="https://raw.githubusercontent.com/MandeepT19/MandeepT19/output/views.webp" alt="Profile views" height="28"><img src="https://komarev.com/ghpvc/?username=MandeepT19&style=flat" alt="" width="1" height="1">
 </p>
 
 <img src="https://raw.githubusercontent.com/MandeepT19/MandeepT19/output/journey.webp" alt="Journey: Diploma in Computer Engineering, B.Tech in AI and ML at Marwadi University, Flutter intern at Sparrow Softech, freelance developer since May 2026" width="100%">
